@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "api_id": "",
+    "api_hash": "",
+    "owner": "@",
+    "hooks": {
+        "гили": "Hook test activated!",
+        "test2": "Hook test2 activated!"
+    },
+    "send_owner": "True",
+    "send_sender": "True",
+    "sleep_time": "172800"
+}
